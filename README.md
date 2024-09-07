@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on completing my Bachelor's degree in Computer Engineering, aiming for a Master of Engineering in Computing.<br>👯 I’m looking to collaborate on software development projects.<br>🤝 I’m looking for help with new technologies.<br>🌱 I’m currently learning Python.<br>⚡ Fun fact - I love playing basketball in my free time.
+🔭 I’m currently working on completing my Bachelor's degree in Computer Engineering at the University of Zagreb, Faculty of Electrical Engineering and Computing- Aiming for a Master of Engineering in Computing.<br>👯 I’m looking to collaborate on software development projects.<br>🤝 I’m looking for help with new technologies.<br>🌱 I’m currently learning Python.<br>⚡ Fun fact - I love playing basketball in my free time.
 
 
 ## 🌐 Socials:
